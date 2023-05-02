@@ -1,9 +1,9 @@
 class AlertMap {
 	
-	int resolutionX;
-	int resolutionY;
-	int geolocationX;
-	int geolocationY;
+	private int resolutionX;
+	private int resolutionY;
+	private int geolocationX;
+	private int geolocationY;
 	
-	void geolocation() {
+	private void geolocation() {};
 		
