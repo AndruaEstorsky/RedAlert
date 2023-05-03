@@ -1,4 +1,4 @@
-class AlertMap {
+public class AlertMap {
 	
 	private int resolutionX;
 	private int resolutionY;
